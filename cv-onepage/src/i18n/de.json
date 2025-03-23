@@ -1,0 +1,10 @@
+{
+    "hero.greeting": "Moin, ich bin",
+    "nav.home" : "Home",
+    "nav.about" : "Über Mich",
+    "nav.skills" : "Skills",
+    "nav.experience" : "Erfahrung",
+    "nav.education" : "Ausbildung",
+    "nav.projects" : "Projekte",
+    "nav.contact" : "Kontakt"
+}
