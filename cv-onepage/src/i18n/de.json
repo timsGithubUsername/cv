@@ -1,10 +1,28 @@
 {
-    "hero.greeting": "Moin, ich bin",
-    "nav.home" : "Home",
-    "nav.about" : "Über Mich",
-    "nav.skills" : "Skills",
-    "nav.experience" : "Erfahrung",
-    "nav.education" : "Ausbildung",
-    "nav.projects" : "Projekte",
-    "nav.contact" : "Kontakt"
+    "hero": {
+        "greeting": "Moin, ich bin"
+    },
+    "nav" : {
+        "home" : "Home",
+        "about" : "Über Mich",
+        "skills" : "Skills",
+        "experience" : "Erfahrung",
+        "education" : "Ausbildung",
+        "projects" : "Projekte",
+        "contact" : "Kontakt"
+    },
+    "about": {
+        "card1": {
+            "title": "Neugier",
+            "text": "Ich habe ein ausgeprägtes Interesse daran, wie Dinge funktionieren – und warum sie manchmal nicht funktionieren. Diese Eigenschaft motiviert mich, mich stetig mit neuen Technologien, Frameworks und Systemen auseinanderzusetzen. Sie ermöglicht es mir, nicht nur Bestehendes zu hinterfragen, sondern auch kreative, nachhaltige Lösungen zu entwickeln. Für mich ist Lernen kein Ziel, sondern ein kontinuierlicher Prozess."
+        },
+        "card2": {
+            "title": "Geduld",
+            "text": "Komplexe Probleme, unvorhergesehene Fehler oder langwierige Prozesse fordern Geduld – und genau diese bringe ich mit. Ich gehe systematisch vor, lasse mich nicht aus der Ruhe bringen und behalte auch in fordernden Situationen den Überblick. Diese Eigenschaft ist besonders hilfreich beim Debuggen, im Umgang mit Legacy-Code oder in interdisziplinären Projekten, in denen Abstimmung gefragt ist."
+        },
+        "card3": {
+            "title": "Klarheit im Komplexen",
+            "text": "Ich habe ein gutes Gespür dafür, Strukturen in komplexen Zusammenhängen zu erkennen und diese verständlich aufzubereiten. Ob beim Design einer Systemarchitektur oder bei der Kommunikation innerhalb eines Teams – ich versuche stets, die Dinge auf das Wesentliche zu reduzieren, ohne dabei an Tiefe zu verlieren. Diese Fähigkeit unterstützt nicht nur die technische Umsetzung, sondern fördert auch effiziente Zusammenarbeit."
+        }
+    }
 }

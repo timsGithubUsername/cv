@@ -4,6 +4,7 @@ import SideNavigation from "../organisms/SideNavigation";
 import DarkModeToggle from "../atoms/DarkModeToggle";
 import LanguageSwitcher from "../atoms/LanguageSwitcher";
 import HeroSection from "../organisms/HeroSection";
+import AboutSection from "../organisms/AboutSection";
 
 interface Props {
     darkMode: boolean;
@@ -36,7 +37,7 @@ export default function MainLayout({
         </section>
 
         <section id="about" className="snap-start h-screen">
-          {/* About Section folgt */}
+            <AboutSection />
         </section>
     </div>
     );

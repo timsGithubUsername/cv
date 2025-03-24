@@ -1,10 +1,28 @@
 {
-    "hero.greeting": "Hi, I'm",
-    "nav.home" : "Home",
-    "nav.about" : "About Me",
-    "nav.skills" : "Skills",
-    "nav.experience" : "Experience",
-    "nav.education" : "Education",
-    "nav.projects" : "Projects",
-    "nav.contact" : "Contact"
+    "hero": {
+        "greeting": "Hi, I'm"
+    },
+    "nav" : {
+        "home" : "Home",
+        "about" : "About Me",
+        "skills" : "Skills",
+        "experience" : "Experience",
+        "education" : "Education",
+        "projects" : "Projects",
+        "contact" : "Contact"
+    },
+    "about": {
+        "card1": {
+            "title": "Curiosity",
+            "text": "I have a keen interest in how things work - and why they sometimes don't work. This characteristic motivates me to constantly engage with new technologies, frameworks and systems. It enables me not only to question the status quo, but also to develop creative, sustainable solutions. For me, learning is not a goal, but a continuous process."
+        },
+        "card2": {
+            "title": "Patience",
+            "text": "Complex problems, unforeseen errors or lengthy processes require patience - and that's exactly what I bring to the table. I take a systematic approach, never lose my cool and keep an overview even in challenging situations. This characteristic is particularly helpful when debugging, dealing with legacy code or in interdisciplinary projects where coordination is required."
+        },
+        "card3": {
+            "title": "Clarity in the complex",
+            "text": "I have a good instinct for recognizing structures in complex contexts and presenting them in an understandable way. Whether designing a system architecture or communicating within a team - I always try to reduce things to the essentials without losing any depth. This ability not only supports technical implementation, but also promotes efficient collaboration."
+        }
+    }
 }
